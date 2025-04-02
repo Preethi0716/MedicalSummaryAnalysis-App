@@ -1,0 +1,17 @@
+# Ignore node_modules folder (for JavaScript projects)
+medical_app/node_modules/
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore environment variable files
+.env
+
+
+# Ignore log files
+*.log
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
