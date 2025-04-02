@@ -1,6 +1,8 @@
 # Ignore node_modules folder (for JavaScript projects)
 medical_app/node_modules/
 
+medical_app/android/app/src/main/assets/onnx/decoder_model_merged_quantized.onnx
+
 # Ignore Python virtual environment
 venv/
 __pycache__/
