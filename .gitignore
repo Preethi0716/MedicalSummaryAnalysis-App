@@ -17,3 +17,4 @@ __pycache__/
 # Ignore OS-generated files
 .DS_Store
 Thumbs.db
+"medical_app/android/app/src/main/assets/onnx/decoder_model_merged_quantized.onnx" 
